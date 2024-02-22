@@ -737,6 +737,7 @@ display: flex;
 box-shadow: 0px 0px 4px gray;
 margin-left: 50px;
 width: 250px;
+height: 70px;
 border-radius: 40px;
 border: 1px solid grey;
 
@@ -764,6 +765,9 @@ border: 1px solid grey;
 }
 .about p{
     color: white;
+    font-size: 13px;
+    font-family: sans-serif;
+    line-height: 1.8;
 }
 
 .connected p{
@@ -867,6 +871,7 @@ color: gray;
 }
 .google{
     margin-left: 15px;
+    
 }
 .facebook i{
    padding: 15px 8px;
